@@ -1,0 +1,18 @@
+# Render Blueprint: https://render.com/docs/blueprint-spec
+# Deploy: Dashboard → New → Blueprint → connect repo
+
+services:
+  - type: web
+    name: historical-geoguessr
+    runtime: node
+    plan: free
+    buildCommand: npm install --prefix client && npm run build --prefix client && npm install --prefix server
+    startCommand: npm run start --prefix server
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: ROUND_DURATION_MS
+        value: "60000"
+      - key: TOTAL_ROUNDS
+        value: "5"

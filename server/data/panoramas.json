@@ -1,0 +1,98 @@
+[
+  {
+    "id": "a1f84e20",
+    "image": "/panorams/a1f84e20.webp",
+    "title": { "ru": "Историческое событие", "en": "Historical event" },
+    "year": 1812,
+    "date": "1812-06-24",
+    "place": { "ru": "Укажите место", "en": "Specify location" },
+    "location": { "lat": 51.5, "lng": 0 },
+    "wikipedia": {
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_1812_%D0%B3%D0%BE%D0%B4%D0%B0",
+      "en": "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+    },
+    "difficulty": "medium",
+    "epoch": "modern",
+    "eventType": "battle"
+  },
+  {
+    "id": "c39b27d1",
+    "image": "/panorams/c39b27d1.webp",
+    "title": { "ru": "Историческое событие", "en": "Historical event" },
+    "year": 1812,
+    "date": "1812-06-24",
+    "place": { "ru": "Укажите место", "en": "Specify location" },
+    "location": { "lat": 48.85, "lng": 2.35 },
+    "wikipedia": {
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_1812_%D0%B3%D0%BE%D0%B4%D0%B0",
+      "en": "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+    },
+    "difficulty": "medium",
+    "epoch": "modern",
+    "eventType": "battle"
+  },
+  {
+    "id": "7e4ac156",
+    "image": "/panorams/7e4ac156.webp",
+    "title": { "ru": "Историческое событие", "en": "Historical event" },
+    "year": 1812,
+    "date": "1812-06-24",
+    "place": { "ru": "Укажите место", "en": "Specify location" },
+    "location": { "lat": 55.75, "lng": 37.62 },
+    "wikipedia": {
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_1812_%D0%B3%D0%BE%D0%B4%D0%B0",
+      "en": "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+    },
+    "difficulty": "medium",
+    "epoch": "modern",
+    "eventType": "battle"
+  },
+  {
+    "id": "58d0f3b9",
+    "image": "/panorams/58d0f3b9.webp",
+    "title": { "ru": "Историческое событие", "en": "Historical event" },
+    "year": 1812,
+    "date": "1812-06-24",
+    "place": { "ru": "Укажите место", "en": "Specify location" },
+    "location": { "lat": 40.42, "lng": -3.7 },
+    "wikipedia": {
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_1812_%D0%B3%D0%BE%D0%B4%D0%B0",
+      "en": "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+    },
+    "difficulty": "medium",
+    "epoch": "modern",
+    "eventType": "battle"
+  },
+  {
+    "id": "2b91e7c4",
+    "image": "/panorams/2b91e7c4.webp",
+    "title": { "ru": "Историческое событие", "en": "Historical event" },
+    "year": 1812,
+    "date": "1812-06-24",
+    "place": { "ru": "Укажите место", "en": "Specify location" },
+    "location": { "lat": 41.9, "lng": 12.5 },
+    "wikipedia": {
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_1812_%D0%B3%D0%BE%D0%B4%D0%B0",
+      "en": "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+    },
+    "difficulty": "medium",
+    "epoch": "modern",
+    "eventType": "battle"
+  },
+  {
+    "id": "f6c8235a",
+    "image": "/panorams/f6c8235a.webp",
+    "title": { "ru": "Историческое событие", "en": "Historical event" },
+    "year": 1812,
+    "date": "1812-06-24",
+    "place": { "ru": "Укажите место", "en": "Specify location" },
+    "location": { "lat": 59.93, "lng": 30.32 },
+    "wikipedia": {
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_1812_%D0%B3%D0%BE%D0%B4%D0%B0",
+      "en": "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+    },
+    "difficulty": "medium",
+    "epoch": "modern",
+    "eventType": "battle"
+  }
+]
